@@ -1,5 +1,7 @@
 # nrkfzf
 
+nrkfzf is a script that search on [nrk](https://tv.nrk.no)
+
 ## Requirements
 
 Install the required programs: `fzf`, `mpv` `jq`, and `youtube-dl`.
