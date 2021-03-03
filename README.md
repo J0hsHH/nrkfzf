@@ -1,7 +1,12 @@
 # nrkfzf
 
+## Requirements
+
+Install the required programs: `fzf`, `mpv` `jq`, and `youtube-dl`.
+
+
 # Todo
 
-* [ ] Playlists
-* [ ] Comments
-* [x] Icons
+* [ ] k
+* [ ] beskrivelse
+* [ ] tittel
